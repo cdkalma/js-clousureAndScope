@@ -19,3 +19,7 @@ const anaMoneyBox = moneyBox()
  anaMoneyBox(46)
  anaMoneyBox(2)
  anaMoneyBox(6)
+
+
+
+
